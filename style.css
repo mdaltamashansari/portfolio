@@ -196,7 +196,6 @@ section .title::after {
 
 .home {
     display: flex;
-    background: url("https://yalantis.com/uploads/ckeditor/pictures/2916/dribble_perfect.gif") no-repeat center;
     background-color: black;
     height: 100vh;
     color: #fff;
@@ -505,11 +504,11 @@ section .title::after {
 }
 
 .skills-content .right .css::before {
-    width: 80%;
+    width: 90%;
 }
 
 .skills-content .right .js::before {
-    width: 50%;
+    width: 80%;
 }
 
 .skills-content .right .react::before {
